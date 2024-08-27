@@ -1,0 +1,260 @@
+
+:root{
+    --primary-color:#651FFF;
+
+}
+
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0px;
+
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+/* banner start */
+.banner-wrapper{
+    padding: 100px 0px;
+    background-color: #EBE5FA;
+    
+}
+.banner-wrapper h2>:nth-child(3)>span{
+    color: #651FFF;
+}
+
+.my-btn-primary{
+    color: #ffff;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: var(--primary-color);
+}
+/* banner end */
+
+/* lighting start */
+
+.lighting-wrapper{
+    padding: 100px 0px;
+}
+/* lighting end */
+
+/* lightweight start */
+.Lightweight{
+    padding: 100px 0px;
+    
+}
+
+.Lightweight div>h2>:nth-child(2)>span{
+    color: var(--primary-color);
+    
+}
+
+.Lightweight div>h2>:nth-child(3){
+    color: var(--primary-color);
+}
+
+
+
+
+
+
+
+/* lightweight end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* fairercost start */
+.fairercost{
+    padding: 100px 0px;
+}
+
+
+
+.fairercost-wrapper a{
+    color: #ffff;
+    text-decoration: none;
+}
+
+.fairercost-wrapper> div>div>div{
+    background-color:var(--primary-color);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.fairercost-wrapper {
+    color: #ffff;
+    
+}
+/* fairercost end */
+
+
+/* lightweight start*/
+.lightweight-wrapper h2{
+    color: var(--primary-color);
+}
+.lightweight-wrapper{
+    padding: 100x 0px;
+}
+
+.lightweight-wrapper >.row>div:nth-child(1){
+    background-color:#FFF7ED;
+    border-radius: 20px;
+    padding: 100px 0px;
+    margin: 0px;
+    
+}
+
+.lightweight-wrapper>.row>div:nth-child(2){
+    background-color:#E0F7FA;
+    border-radius: 20px;
+    padding: 100px 0px;
+    
+}
+/* team start */
+.team-wrapper{
+    padding: 100px 0px;
+}
+
+.team-wrapper h2>span>:nth-child(1){
+    color: #0B0D0E;
+
+}
+.team-wrapper h2>:nth-child(1){
+    color: var(--primary-color);
+}
+/* team end */
+
+/* betterprivacy start */
+.betterprivacy-wrapper{
+    padding: 100px 0px;
+    
+}
+.betterprivacy-wrapper h3>:nth-child(3){
+    color: var(--primary-color);
+}
+.betterprivacy-wrapper a{
+    text-decoration: none;
+    color: #00E5FF;
+}
+.betterprivacy-wrapper .row>:nth-child(2)>div>div{
+    padding: 10px;
+    box-shadow: 0px 4px 24px 0px #00000010;
+    margin-bottom: 20px;
+    margin: 10px;
+    border-radius: 20px;    
+}
+/* betterprivacy End */
+
+/* pricing start */
+.pricing{
+    padding: 100px 0px;
+    background: url("../image/lighting/fairercost/lightweight/teaming/betterprivacy/pricing/bg.png") no-repeat center;
+    background-size: cover;
+    
+}
+
+
+
+
+
+.pricing-wrapper div>:nth-child(1)>div{
+    background-color: #ffff;
+    border-radius: 20px;
+    
+}
+.pricing-wrapper div>:nth-child(2)>div{
+    background-color: var(--primary-color);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px ;  
+
+}
+.my-button{
+    color: #ffff;
+    padding: 6px;
+    border-radius: 15px;
+    background-color: var(--primary-color);
+    
+}
+.pricing h1 :nth-child(1){
+    color: #ffff;
+
+}
+.pricing h1 :nth-child(2){
+    color: var(--primary-color);
+
+}
+/* pricing End */
+
+/* work start */
+.work{
+    padding: 100px 0px;
+}
+
+/* work end */
+/* ready start */
+.Ready{
+    padding: 100px 0px;
+}
+/* ready end */
+
+
+/* work start */
+
+.ready-wrapper >div >div>div:nth-child(1){
+    background-color: var(--primary-color);
+    color: #ffff;
+    border-radius: 20px;
+    padding: 13px;
+}
+
+.ready-wrapper >div >div:nth-child(2)>div{
+    background-color:#ECECFE;
+    color: var(--primary-color);
+    border-radius: 20px;
+    padding: 20px;
+
+}
+.ready-wrapper a{
+    text-decoration: none;
+    color: #fff;
+}
+/* work end */
+
+
+/* footer start */
+.footer-wrapper{
+    background-color:#1A284E;
+    color: #ffff;
+}
+/* footer end */
+
+
